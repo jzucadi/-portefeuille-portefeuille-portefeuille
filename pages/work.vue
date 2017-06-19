@@ -56,7 +56,7 @@
       <div class="grid__col grid__col--2-of-5">
         <div class="ava">
           <h2 class="work">Plastiq</h2>
-          <p class="blurb">Developed custom Angular components for customer login and administrative dashboard. Designed prototypes and created innteractive digital styleguide.</p>
+          <p class="blurb">Developed custom Angular components for customer login and administrative dashboard. Designed prototypes and created interactive digital styleguide.</p>
           <br /><div class="separator"></div>
           <p class="blurb">Javascript, ES6, Angular, MongoDB, PostCSS, Python</p>
           <br /><a target="_blank" href="https://www.plastiq.com/" class="button btn">
