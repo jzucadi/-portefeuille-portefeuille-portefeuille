@@ -35,11 +35,11 @@ position: relative;
   height: 4.3px;
   width: 0%;
 background-image:linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
-  -webkit-transition: all 0.3s linear;
-  -moz-transition: all 0.3s linear;
-  -ms-transition: all 0.3 linear;
-  -o-transition: all 0.3 linear;
-  transition: all 0.3s linear;
+  -webkit-transition: all 0.2s linear;
+  -moz-transition: all 0.2s linear;
+  -ms-transition: all 0.2s linear;
+  -o-transition: all 0.2s linear;
+  transition: all 0.2s linear;
 }
 
 .about:hover:after {
