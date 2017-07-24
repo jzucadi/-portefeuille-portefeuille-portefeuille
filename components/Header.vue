@@ -20,19 +20,20 @@
 </template>
 <style>
 .navi{
-  font-size: 1.5em;
+  font-size: 1.7em;
   font-weight: 300;
+  letter-spacing: 1.5px;
   position: relative;
   
 }
 .navi:after {
   content: '';
   position: absolute;
-  bottom: 0;
+  bottom: -3px;
   left: 0;
   height: 2px;
   width: 0%;
- background-image:linear-gradient(to top, #cfd9df 0%, #e2ebf0 100%);
+ background-image:linear-gradient(to top, #cfd9df 0%, #ccc 100%);
   -webkit-transition: all 0.2s linear;
   -moz-transition: all 0.2s linear;
   -ms-transition: all 0.2s linear;

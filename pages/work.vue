@@ -112,6 +112,7 @@
   margin: 0px auto;
 }
 .blurb {
+  line-height: 1.5;
   font-size: 1.5em;
   color: #bbb;
   font-weight: 200;
