@@ -22,7 +22,7 @@
 .navi{
   font-size: 1.7em;
   font-weight: 300;
-  letter-spacing: 1.5px;
+  
   position: relative;
   
 }
