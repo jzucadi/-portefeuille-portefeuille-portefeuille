@@ -107,9 +107,6 @@
 </template>
 
 <style scoped>
-.btn {
-  box-shadow: 0 20px 40px 0 rgba(33, 150, 243, 0.25);
-}
 
 .ava {
   margin: 0px auto;

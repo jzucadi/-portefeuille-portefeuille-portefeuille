@@ -41,24 +41,38 @@ export default {
     }
 }
 
+
+
+
 .button, .button:visited
 {
   display: inline-block;
   color: white;
-  letter-spacing: 1px;
+  letter-spacing: 1.5px;
   background-image: linear-gradient(120deg, #89f7fe 0%, #66a6ff 100%);
   text-decoration: none;
   padding: 15px 45px;
+  letter-spacing: 1.5px;
   border-radius:30px;
-  transition: opacity .6s
+  transition: all 0.5s ease 0s;
+  box-shadow: 0 20px 40px 0 rgba(33, 150, 243, 0.25);
 }
 
 .button:hover, .button:focus
 {
   color: #fff;
   background-color: #ccc;
-  transition: opacity .6s
+  transform: translateY(-5px);
+  transition: all 0.5s ease 0s;
+  
+  
 }
+
+.button:hover {
+  box-shadow: 0 20px 40px 0 rgba(54, 151, 228, 0.55);
+  background-image: linear-gradient(120deg, #49eaf4 0%, #4291ff 100%);
+}
+
 
 .title
 {
