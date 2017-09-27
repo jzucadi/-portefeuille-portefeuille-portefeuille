@@ -1,6 +1,6 @@
 <template>
   <section class="container">
-  <div class="grid__col grid__col--4-of-5">
+  
 
 
     <div class="separator"></div>
@@ -17,7 +17,7 @@
     <h1 class="title">
      Have a project? <span><nuxt-link class="link about" to="/contact">Let's talk</nuxt-link></span>.
     </h1>
-  </div>
+  
  
   </section>
  
